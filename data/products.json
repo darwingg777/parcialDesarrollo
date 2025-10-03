@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Moto Voladora XT-5000",
+      "description": "Moto anti-gravedad con propulsión iónica, autonomía de 500km y control por gestos",
+      "price": "$25,999",
+      "image": "https://biker.report/wp-content/uploads/2019/03/lazareth-flying-motorcycle-lmv496.jpg",
+      "category": "movilidad"
+    },
+    {
+      "id": 2,
+      "name": "Apple Portal Pro",
+      "description": "Dispositivo de teletransportación cuántica instantánea para distancias cortas",
+      "price": "$89,999",
+      "image": "https://talktowalle.com/wp-content/uploads/2024/02/A-futuristic-Apple-Teleport-Machine-Apple-products-Apple-Teleport-Machine-blending-Apples-sci-fi.webp",
+      "category": "tecnologia_avanzada"
+    },
+    {
+      "id": 3,
+      "name": "Neural Glasses VR",
+      "description": "Gafas de realidad virtual con interfaz neuronal directa y resolución 16K",
+      "price": "$3,499",
+      "image": "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?w=500&h=300&fit=crop",
+      "category": "realidad_virtual"
+    },
+    {
+      "id": 4,
+      "name": "Tesla Hoverboard Pro",
+      "description": "Tabla flotante con campo magnético personal y velocidad hasta 80km/h",
+      "price": "$4,999",
+      "image": "https://i.ytimg.com/vi/uiTtXhzxe0Q/maxresdefault.jpg",
+      "category": "movilidad"
+    },
+    {
+      "id": 5,
+      "name": "Quantum Watch X",
+      "description": "Reloj inteligente con manipulación temporal limitada y predicción de eventos",
+      "price": "$12,999",
+      "image": "https://images.unsplash.com/photo-1434056886845-dac89ffe9b56?w=500&h=300&fit=crop",
+      "category": "wearables"
+    },
+    {
+      "id": 6,
+      "name": "Holographic Phone S27",
+      "description": "Smartphone con proyección holográfica 3D y asistente IA consciente",
+      "price": "$7,899",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500&h=300&fit=crop",
+      "category": "comunicacion"
+    },
+    {
+      "id": 7,
+      "name": "Gravity Boots Pro",
+      "description": "Botas anti-gravedad para caminar sobre cualquier superficie incluyendo agua",
+      "price": "$8,499",
+      "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=500&h=300&fit=crop",
+      "category": "wearables"
+    },
+    {
+      "id": 8,
+      "name": "Neural Translator Implant",
+      "description": "Implante subdérmico para traducción instantánea de todos los idiomas conocidos",
+      "price": "$15,999",
+      "image": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=500&h=300&fit=crop",
+      "category": "bio_tecnologia"
+    },
+    {
+      "id": 9,
+      "name": "Personal Force Field",
+      "description": "Generador de campo de fuerza personal portátil contra impactos y elementos",
+      "price": "$32,999",
+      "image": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=500&h=300&fit=crop",
+      "category": "seguridad"
+    },
+    {
+      "id": 10,
+      "name": "Memory Upload Device",
+      "description": "Dispositivo para backup y transferencia de memorias y habilidades",
+      "price": "$45,999",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=500&h=300&fit=crop",
+      "category": "bio_tecnologia"
+    },
+    {
+      "id": 11,
+      "name": "Solar Jetpack Mark VII",
+      "description": "Mochila propulsora solar con autonomía ilimitada y ascenso hasta 5000m",
+      "price": "$18,999",
+      "image": "https://i.blogs.es/87c6fe/phoca_thumb_l_2013-p12-front-view/1024_2000.jpg",
+      "category": "movilidad"
+    },
+    {
+      "id": 12,
+      "name": "Smart Contact Lenses",
+      "description": "Lentes de contacto con realidad aumentada, zoom 50x y grabación visual",
+      "price": "$2,999",
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=500&h=300&fit=crop",
+      "category": "wearables"
+    }
+  ]
+}
